@@ -1,3 +1,3 @@
 # hello-world
 my first repository
-this is my readme
+My name is Carolina. I love :cat: and :coffee:
